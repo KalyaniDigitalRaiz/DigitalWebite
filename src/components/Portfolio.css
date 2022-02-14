@@ -1,0 +1,121 @@
+body{
+    overflow-x: hidden;
+}
+.nav-tabs {
+  /* border-bottom: 1px solid #dee2e6; */
+  border-bottom: none !important;
+  padding: 12px 217px !important;
+}
+
+.portfolio.tabs {
+  text-align: center !important;
+}
+
+h1.act {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 600;
+}
+
+
+
+button#react-aria564992185-4-tab-FOURTH {
+  border: 1px solid #57576d!important;
+  cursor: pointer;
+  color: #20202c;
+  background-color: ghostwhite;
+  border-radius: 50px;
+  height: 42px;
+  font-family: 'Cabin', sans-serif!important;
+  padding: 0px 8px;
+  font-size: 14px;
+  width: auto;
+}
+button#react-aria564992185-4-tab-FOURTH:hover{
+  cursor: pointer;
+  background-color:#6162b8;
+  color: white;
+}
+span.folio{
+  color: #6162b8!important;
+  font-family: 'Playfair Display', serif!important;
+  font-style: italic!important;
+}
+
+p.act {
+  color: #6162b8!important;
+  font-size: 15px!important;
+  margin-top: 10px!important;
+  font-family: 'Cabin', sans-serif!important;
+}
+
+
+
+ul.nav.nav-tabs {
+  margin-left: -37px!important;
+}
+img.card-img-top {
+  
+    /* width: 327px; */
+    /* height: 300px; */
+       width: 321px;
+    height: 225px;
+
+}
+img.card-img-top:before:hover{
+cursor: pointer;
+background-color: slategrey;
+color: white;
+}
+.array .card {
+  margin-left: 20px;
+}
+
+.card-group>.card+.card {
+    margin-left: 169px;
+}
+.card {
+  margin-right: 59px;
+  margin-top: 54px;
+  margin-left: 70px;
+}
+.card-group {
+  /* width: 89%; */
+  width: 85%;
+  /* height: 454px; */
+  /* margin-top: 2px; */
+  margin-left: 65px;
+}
+
+div#react-aria6033972222-4-tabpane-first {
+  margin-left: 135px;
+}
+div#react-aria6033972222-4-tabpane-second {
+  margin-left: 135px;}
+
+  div#react-aria6033972222-4-tabpane-third  {
+  margin-left: 135px;}
+  div#react-aria6033972222-4-tabpane- {
+  margin-left: 135px;
+}
+img.varient {
+  width: 373px;
+  margin-left: -26px;
+  margin-top: -90px;
+}
+
+.img__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(216, 198, 198, 0.6);
+  color: #ffffff;
+  font-family: 'Quicksand', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.25s;
+}

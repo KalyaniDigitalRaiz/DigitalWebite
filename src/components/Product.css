@@ -1,0 +1,113 @@
+img.lt {
+    margin-left: -11px!important;
+    margin-top: -51px!important;
+    width: 102%;
+}
+h1.product_sec {
+    color: #263045;
+    font-size: 30px;
+    /* background: #2d4a8a; */
+    /* color: #fff; */
+    text-shadow: none;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    margin-top: 27px;
+    padding: 0px 133px;
+    /* text-align: center; */
+}
+.project {
+    /* font-size: 14px; */
+    padding: -3px -36px;
+    /* font-family: 'Cabin', sans-serif; */
+    /* line-height: 25px; */
+   
+    margin-left: 128px;
+    margin-right: 91px;
+    font-family: "Poppins",sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: #6e6e6e;
+    background-color: #fff;
+    letter-spacing: 0px;
+
+}
+img.cust {
+    width: 519px;
+
+    height: 400px;
+  
+    margin-top: 39px;
+    
+}
+
+img.crms{
+    width: 521px;
+    height: 400px;
+   margin-top: 39px;
+    }
+
+    p.theroy {
+        position: relative;
+        width: 100%;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+        color: #000000;
+        /* font-family: Arial; */
+        /* font-size: 14px; */
+        font-weight: 400;
+        /* font-size: 14px; */
+        /* line-height: 25px; */
+        text-align: justify;
+        font-family: "Poppins",sans-serif;
+        font-size: 16px;
+        line-height: 26px;
+        margin-top: 42px;
+    }
+
+     p.ther {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: #000000;
+    /* font-family: Arial; */
+    /* font-size: 14px; */
+    font-weight: 400;
+    /* font-size: 14px; */
+    /* line-height: 25px; */
+    text-align: justify;
+    font-family: "Poppins",sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    
+     }
+     h6.gro_info{
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 25px; 
+     margin-top: 56px; 
+     }
+     p.gro_sec {
+        text-align: justify;
+        font-size: 14px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 27px;
+        margin-top: 81px;
+    }
+
+    img.gro_info{
+        width: 521px;
+        height: 400px;
+       margin-top: 149px;
+       margin-left: 29px;
+        }
+        img.gro_sec {
+            width: 519px;
+            margin-left: 47px;
+          
+            margin-top: 149px;
+        }        
